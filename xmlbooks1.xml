@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<books>
+   <book>
+      <title>XML Step By Step</title>
+      <publisher>MS Press</publisher>
+   </book>
+   <book>
+      <title>Developing XML Solutions</title>
+      <publisher>MS Press</publisher>
+   </book>
+</books> 

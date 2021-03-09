@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_en_XML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_en_XML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.ColumnSpan="2">
+            <Button Name="btnXmlReader" Content="XmlReader"  Margin="5" Click="btnXmlReader_Click"/>
+            <Button Name="btnXmlDom" Content="DOM"  Margin="5" Click="btnXmlDom_Click"/>
+            <Button Name="btnXmlAanpassen" Content="XML Aanpassen"  Margin="5" Click="btnXmlAanpassen_Click"/>
+            <Button Name="btnXmlNieuw" Content="Nieuwe XML"  Margin="5" Click="btnXmlNieuw_Click"/>
+            <Button Name="btnBerichtInlezen" Content="Bericht Inlezen"  Margin="5" Click="btnBerichtInlezen_Click"/>
+        </WrapPanel>
+        <ListBox Name="listXML" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <WebBrowser Name="webBrowser1" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+    </Grid>
+</Window>

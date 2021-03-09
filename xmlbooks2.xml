@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<books>
+   <book>
+      <title>Beginning XML</title>
+      <publisher>Wrox</publisher>
+   </book>
+   <book>
+      <title>Professional XML</title>
+      <publisher>Wrox</publisher>
+   </book>
+</books> 

@@ -1,0 +1,30 @@
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\bin\Debug\WPF en XML.exe.config
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\bin\Debug\WPF en XML.exe
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\bin\Debug\WPF en XML.pdb
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.csprojAssemblyReference.cache
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\MainWindow.g.cs
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\App.g.cs
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML_MarkupCompile.cache
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML_MarkupCompile.lref
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\MainWindow.baml
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.g.resources
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF_en_XML.Properties.Resources.resources
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.csproj.GenerateResource.cache
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.csproj.CoreCompileInputs.cache
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.exe
+C:\Users\hans\source\repos\WPF en XML\WPF en XML\obj\Debug\WPF en XML.pdb
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\bin\Debug\WPF en XML.exe.config
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\bin\Debug\WPF en XML.exe
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\bin\Debug\WPF en XML.pdb
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\MainWindow.g.cs
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\App.g.cs
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML_MarkupCompile.cache
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML_MarkupCompile.lref
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\MainWindow.baml
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.g.resources
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF_en_XML.Properties.Resources.resources
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.exe
+C:\Users\mirce\source\repos\WPF & XML\WPF & XML\WPF en XML\obj\Debug\WPF en XML.pdb

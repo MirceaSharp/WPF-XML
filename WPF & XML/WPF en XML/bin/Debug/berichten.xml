@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<berichten>
+  <nota tijd="12:03:46">
+    <aan>Toon</aan>
+    <van>Inne</van>
+    <cc reden="Ter info">Hans</cc>
+    <cc reden="Ter info">Hans</cc>
+  </nota>
+  <nota tijd="12:10:46">
+    <aan>Inne</aan>
+    <van>Toon</van>
+    <wanneer>2020-02-16</wanneer>
+    <tekst>Op mij kan je rekenen!</tekst>
+  </nota>
+</berichten>

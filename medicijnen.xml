@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<medicijnen>
+   <bijsluiter code="A1551">
+   	  <benaming>Naproxen EG</benaming>
+      <vormen>
+         <vorm>tabletten<gewicht eenheid="mg">250</gewicht></vorm>
+         <vorm>tabletten<gewicht eenheid="mg">500</gewicht></vorm>
+         <vorm>zetpillen<gewicht eenheid="mg">500</gewicht></vorm>
+      </vormen>
+      <groep>ontstekingsremmer</groep>
+      <indicatie>ziekten met symptomen van ontsteking</indicatie>
+      <doktersvoorschrift/>
+   </bijsluiter>
+
+   <bijsluiter code="Z1C209">
+      <benaming>Dafalgan</benaming>
+      <vormen>
+         <vorm>bruistabletten <gewicht eenheid="g">1</gewicht></vorm>
+         <vorm>bruistabletten <gewicht eenheid="mg">500</gewicht></vorm>
+         <vorm>tabletten <gewicht eenheid="mg">500</gewicht></vorm>
+      </vormen>
+      <groep>pijnstiller</groep>
+      <indicatie>symptomatische behandeling van koorts</indicatie>
+   </bijsluiter>
+
+   <bijsluiter code="P56145">
+      <benaming>Aspirine</benaming>
+      <vormen>
+         <vorm>tabletten <gewicht eenheid="mg">125</gewicht></vorm>
+         <vorm>tabletten <gewicht eenheid="mg">250</gewicht></vorm>
+         <vorm>tabletten <gewicht eenheid="mg">500</gewicht></vorm>
+      </vormen>
+      <groep>pijnstiller</groep>
+      <indicatie>symptomatische behandeling van koorts</indicatie>
+   </bijsluiter>
+
+   <bijsluiter code="V1265">
+      <benaming>Sedergine C</benaming>
+      <vormen>
+         <vorm>bruistabletten <gewicht eenheid="mg">300</gewicht></vorm>
+      </vormen>
+      <groep>pijnstiller</groep>
+      <indicatie>symptomatische behandeling van koorts</indicatie>
+   </bijsluiter>
+
+   <bijsluiter code="A14965">
+      <benaming>Perdolan</benaming>
+      <vormen>
+         <vorm>zetpillen <gewicht eenheid="mg">500</gewicht></vorm>
+         <vorm>staaftabletten <gewicht eenheid="mg">500</gewicht></vorm>
+      </vormen>
+      <groep>pijnstiller</groep>
+      <indicatie>symptomatische behandeling van koorts</indicatie>
+      <doktersvoorschrift/>
+   </bijsluiter>
+
+   <bijsluiter code="A15888">
+      <benaming>Actifed</benaming>
+      <vormen>
+         <vorm><gewicht eenheid="ml">180</gewicht>siroop</vorm>
+      </vormen>
+      <groep>hoestsiroop</groep>
+      <indicatie>behandeling van de hoest gepaard gaande met congestie der slijmvliezen</indicatie>
+      <doktersvoorschrift/>
+   </bijsluiter>
+   
+</medicijnen>
